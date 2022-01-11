@@ -3,4 +3,4 @@ My protfolio was a real journey into figuring out what I was capable of, To begi
 
 After i made my boxes i wanted to explain in short what each box of info would represent, after the boxes full of projects hopefully, i want to have my footer actually be my examplatory of what we did in each project 
 
-I know my project is really bare bones and theres alot i could do like adding hover effects to my boxes and really organizing my content together to be mobile friendly but all in all this is waht I hav
+I know my project is really bare bones and theres alot i could do like adding hover effects to my boxes and really organizing my content together to be mobile friendly but all in all this is what I have
